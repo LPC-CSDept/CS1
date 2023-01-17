@@ -15,4 +15,4 @@ main-debug: $(SRCS) $(HEADERS)
 	$(CXX) $(CXXFLAGS) -O0 $(SRCS) -o "$@"
 
 clean:
-	rm -f main main-debug *.o
+	rm -f main main-debug
