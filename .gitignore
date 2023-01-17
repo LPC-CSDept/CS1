@@ -1,5 +1,5 @@
-.ccls-cache
-main.o
+.*
+*.o
 a.out
 replit.nix
 main-debug
