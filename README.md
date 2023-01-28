@@ -1,6 +1,2 @@
-Class Notes
-
-- lskdjf
-- sldkjf
-
+## CS 1 Labs
 
